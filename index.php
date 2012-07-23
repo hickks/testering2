@@ -3,6 +3,7 @@
 <head>
 
 <?php echo "This page is a page!"; ?>
+<?php echo "HHHH!"?>
 
 
 
